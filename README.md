@@ -42,8 +42,8 @@
 
 ### 🔥 Featured Projects
 
-- 🔧 [MyCloud Dashboard](https://github.com/inertz/mycloud-dashboard) – Manage cloud servers like a pro
-- 🧠 [Jarvis Chat AI](https://github.com/inertz/jarvis-chat) – Iron-Man inspired AI assistant
+- 🔧 [inertz script](https://github.com/inertz/inertz-script) – A JavaScript-inspired interpreted programming language with C++-like structure, built in Node.js.
+- 🧠 [Jarvis Chat AI](https://github.com/inertz/Jarvis) – Iron-Man inspired AI assistant
 - 📊 [Twitter Sentiment Dashboard](https://github.com/inertz/twitter-sentiment-dashboard) – Track and analyze tweets smartly
 
 ---
