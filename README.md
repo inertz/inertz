@@ -50,7 +50,7 @@
 
 ### 📫 Contact Me
 
-- 🌐 Website: [inertz.org](https://inertz.org)
+- 🌐 Website: [inertz.com](https://inertz.com)
 - 🐦 Twitter: [@inertz](https://twitter.com/inertz)
 - 💼 LinkedIn: [linkedin.com/in/inertz](https://linkedin.com/in/inertz)
 
