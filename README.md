@@ -44,9 +44,9 @@
 
 - 🔧 [inertz script](https://github.com/inertz/inertz-script) – A JavaScript-inspired interpreted programming language with C++-like structure, built in Node.js.
 - 🧠 [Jarvis Chat AI](https://github.com/inertz/Jarvis) – Iron-Man inspired AI assistant
-- 🐦 [https://github.com/inertz/Scripts](https://github.com/inertz/Scripts) - This GitHub Page showcases a collection of personal scripts and tools I have developed
-- 🔥 [https://github.com/inertz/p2pchat](https://github.com/inertz/p2pchat) - Connect with nearby devices using Bluetooth and WiFi Direct for seamless local communication
-- 🌐 [https://github.com/inertz/Triptrack](https://github.com/inertz/Triptrack) - A smart vacation itinerary planner built with React Native and Expo. 
+- 🐦 [Bash Scripts](https://github.com/inertz/Scripts) - This GitHub Page showcases a collection of personal scripts and tools I have developed
+- 🔥 [Bluetooth p2pchat](https://github.com/inertz/p2pchat) - Connect with nearby devices using Bluetooth and WiFi Direct for seamless local communication
+- 🌐 [Triptrack](https://github.com/inertz/Triptrack) - A smart vacation itinerary planner built with React Native and Expo. 
 
 ---
 
