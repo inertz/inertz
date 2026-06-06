@@ -36,8 +36,12 @@
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">    <img  alt="inertz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/inertz?cardType=level&fontFamily=&preferLogin=false" />  </a>
 
 </p>
-![GitHub Streak](https://streak-stats.demolab.com?user=inertz&theme=tokyonight).
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inertz&show_icons=true&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=inertz&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inertz&layout=compact&theme=tokyonight)
 
 
