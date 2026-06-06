@@ -33,7 +33,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/inertz?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">    <img  alt="inertz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/inertz?cardType=level&fontFamily=&preferLogin=false" />  </a>
 </p>
 
 ---
