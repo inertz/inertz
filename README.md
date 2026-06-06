@@ -33,9 +33,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inertz&show_icons=true&theme=radical" alt="inertz github stats" />
-  <img src="https://streak-stats.demolab.com?user=inertz&theme=radical" alt="inertz github streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inertz&layout=compact&theme=radical" alt="inertz top langs" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/inertz?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 </p>
 
 ---
