@@ -34,6 +34,7 @@
 
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">    <img  alt="inertz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/inertz?cardType=level&fontFamily=&preferLogin=false" />  </a>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=inertz" alt="GitHub Streak" /></a>
 </p>
 
 ---
