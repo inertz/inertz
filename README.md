@@ -33,16 +33,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
+  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/inertz?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
-
-
-
-
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=inertz&theme=tokyonight)
-
-
 
 </p>
 
